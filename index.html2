@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Concours - Datavisualisation</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+    }
+    h1 {
+      padding: 16px 24px;
+      margin: 0;
+      background: white;
+    }
+    iframe {
+      display: block;
+      width: 100%;
+      height: 85vh;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Concours - Datavisualisation</h1>
+  <iframe
+    title="Concours Power BI"
+    src="https://app.powerbi.com/reportEmbed?reportId=056897c1-ea6c-4220-934e-e0387620690a&autoAuth=true&ctid=eb10c7a3-d322-414b-b714-625f9a55aded"
+    allowfullscreen="true">
+  </iframe>
+</body>
+</html>
